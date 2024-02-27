@@ -1,0 +1,59 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  margin: 65px auto;
+  font-size: 15px;
+
+
+h1 {
+  font-family:'Dosis', sans-serif;
+  font-size: 32px;
+  font-weight:normal;
+  color:#3F3D56;
+}
+
+h1 span {
+  color: #EE24FF;
+  font-weight: bold;
+}
+
+#main {
+  color: #828282;
+
+  margin-bottom: 63px;
+}
+
+#main strong {
+  color: #3F3D56;
+}
+#img mulher {
+  margin-bottom: 32px;
+}
+
+
+.line {
+  
+  width: 391px;
+  height: 0px;
+
+  margin: 0 auto 16px;
+
+  border: 1px solid #ECEFF2;;
+  ;
+}
+
+a {
+  font-weight: bold;
+  text-decoration-line: none;
+  color: #3F3D56;
+  
+}
+
+a + a {
+  text-align: center;
+  margin-left: 42px;
+} 
+
+#wave {
+  margin-top: 40.83px;
+}
